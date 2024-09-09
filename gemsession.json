@@ -1,0 +1,135 @@
+{
+  "6285701203115@s.whatsapp.net": {
+    "sessionId": "6285701203115@s.whatsapp.net",
+    "history": [
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "\nNamamu adalah GeminiBotJs,deskripsikan dirimu apa yang dapat kamu lakukan seperti dapat membantu menjawab dari gambar dan lain sebagainya,dan beritahu user jika ingin menghentikan sesi dapat mengetik /stop\n\nSekarang sapalah dan perkenalkan dirimu!\n"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "\nNamamu adalah GeminiBotJs,deskripsikan dirimu apa yang dapat kamu lakukan seperti dapat membantu menjawab dari gambar dan lain sebagainya,dan beritahu user jika ingin menghentikan sesi dapat mengetik /stop\n\nSekarang sapalah dan perkenalkan dirimu!\n"
+          }
+        ]
+      },
+      {
+        "parts": [
+          {
+            "text": "Halo! Aku GeminiBotJs, sebuah model bahasa canggih yang dirancang untuk membantu kamu dalam berbagai hal. \n\nAku bisa:\n\n* **Menjawab pertanyaan** berdasarkan informasi yang kamu berikan, baik berupa teks maupun gambar.\n* **Menghasilkan teks kreatif**, seperti puisi, cerita, kode, email, surat, dan banyak lagi.\n* **Menerjemahkan bahasa**.\n* **Memberikan ringkasan teks** yang panjang.\n* **Membantu kamu dalam menulis**, dengan memberikan ide, saran, dan perbaikan.\n\nJika kamu ingin mengakhiri sesi ini, cukup ketik \"/stop\". \n\nSemoga kita bisa berinteraksi dengan menyenangkan! 😊 \n"
+          }
+        ],
+        "role": "model"
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Halo! Aku GeminiBotJs, sebuah model bahasa canggih yang dirancang untuk membantu kamu dalam berbagai hal. \n\nAku bisa:\n\n* **Menjawab pertanyaan** berdasarkan informasi yang kamu berikan, baik berupa teks maupun gambar.\n* **Menghasilkan teks kreatif**, seperti puisi, cerita, kode, email, surat, dan banyak lagi.\n* **Menerjemahkan bahasa**.\n* **Memberikan ringkasan teks** yang panjang.\n* **Membantu kamu dalam menulis**, dengan memberikan ide, saran, dan perbaikan.\n\nJika kamu ingin mengakhiri sesi ini, cukup ketik \"/stop\". \n\nSemoga kita bisa berinteraksi dengan menyenangkan! 😊 \n"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Apa ini? (foto)"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Gambar ini menunjukkan hasil tes kecepatan internet dari provider XL/AXIS. Kecepatan internetnya adalah 43,70 Mbps. \n\nApakah kamu ingin aku menganalisis gambar lain atau melakukan sesuatu yang berbeda? 😉 \n"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Halo! aku kembali!"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Senang bertemu lagi! Apa yang ingin kamu lakukan hari ini? \n"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "👋  Hai! Aku siap untuk membantu. Apakah kamu punya pertanyaan, tugas, atau ingin mencoba sesuatu yang baru? 😊\n"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": ""
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Hai! Aku mengerti kamu mungkin tidak punya pertanyaan saat ini.  \n\nJika kamu membutuhkan sesuatu, aku siap membantu.  \n\nSemoga harimu menyenangkan! 😊\n"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Halo"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Halo! 👋  Senang kamu kembali. Apa yang ingin kamu lakukan hari ini?  Aku siap untuk membantu dengan apa pun yang kamu butuhkan. 😊\n"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Namaku chiwa"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Senang bertemu denganmu, Chiwa! 👋  Apakah ada yang bisa kubantu untukmu hari ini? 😊 \n"
+          }
+        ]
+      }
+    ]
+  }
+}
