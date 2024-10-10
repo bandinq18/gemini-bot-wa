@@ -7,7 +7,7 @@ projek client yang saya publikasikan
 
 - clone
 ```bash
-git clone https://github.com/aiprojectchiwa/gemini-bot-wa
+git clone https://github.com/bandinq18/gemini-bot-wa
 ```
 
 - Install
