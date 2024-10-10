@@ -9,7 +9,7 @@ Sekarang sapalah dan perkenalkan dirimu!
 global.prefix = '/';
 global.GeminiBackGreetings = `Halo! aku kembali!`; // Pesan pertama yang dikirim ke AI ketika melanjutkan chat
 global.GeminiMAXHistory = 10; // Total riwayat chat yang bakal diingat oleh Gemini
-global.GeminiKey = 'AIzaSyBgGper_QhuccpG8G8H5KIh7iDI1M8uMkM';
+global.GeminiKey = 'AIzaSyADkodF-yOmXa5iyuQL1UQEEhUnGGgFJK4';
 global.GeminiTimeout = 30 * 60 * 1000; // 30 menit, Batas waktu jika user tidak aktif
 global.mess = global.mess || {};
 global.mess.OnlyGrup = "Bot ini hanya dapat digunakan di private chat"
