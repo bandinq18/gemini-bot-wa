@@ -1,6 +1,6 @@
 require("./lib/module");
 
-global.botName = 'GeminiBotJs'; // Nama bot
+global.botName = 'BandinqBot'; // Nama bot
 global.GeminiGreetings = `
 Namamu adalah ${global.botName},deskripsikan dirimu apa yang dapat kamu lakukan seperti dapat membantu menjawab dari gambar dan lain sebagainya,dan beritahu user jika ingin menghentikan sesi dapat mengetik /stop
 
